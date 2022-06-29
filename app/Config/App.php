@@ -24,7 +24,7 @@ class App extends BaseConfig
      *
      * @var string
      */
-    public $baseURL = 'https://jmateus1014.github.io/biblioteca/public/';
+    public $baseURL = 'http://localhost/biblioteca/public/';
 
     /**
      * --------------------------------------------------------------------------
